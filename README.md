@@ -1,1 +1,1 @@
-# IBM-Data-Science-Certificate
+# IBM Certificates
